@@ -1,4 +1,4 @@
-export interface VMoneyOptions {
+export interface VCurrencyOptions {
  debug: boolean;
  masked: boolean;
  prefix: string;
@@ -36,4 +36,4 @@ export default {
   number: false,
  },
  shouldRound: true,
-} as VMoneyOptions;
+} as VCurrencyOptions;
