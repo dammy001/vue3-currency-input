@@ -1,0 +1,29 @@
+{
+  "name": "vue3-currency-input",
+  "version": "0.1.0",
+  "description": "vue3 currency input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dammy001/vue3-currency-input.git"
+  },
+  "keywords": [
+    "vue",
+    "3",
+    "vuejs",
+    "currency",
+    "input",
+    "vuejs",
+    "vue",
+    "money"
+  ],
+  "author": "Damilare Anjorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dammy001/vue3-currency-input/issues"
+  },
+  "homepage": "https://github.com/dammy001/vue3-currency-input#readme"
+}
