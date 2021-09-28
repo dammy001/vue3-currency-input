@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/dammy001/vue3-currency-input/issues"
   },
-  "homepage": "https://github.com/dammy001/vue3-currency-input#readme"
+  "homepage": "https://github.com/dammy001/vue3-currency-input#readme",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.2.19",
+    "vue": "^3.2.19"
+  }
 }
